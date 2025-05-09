@@ -107,7 +107,7 @@ def project_vision():
 ## 📬 Let's Secure the Digital World Together
 
 <div align="center">
-  <a href="https://linkedin.com/in/josephugwu](https://www.linkedin.com/in/joseph-ugwu-718773344">
+  <a href="https://linkedin.com/in/josephugwu](https://www.linkedin.com/in/joseph-ugwu">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
   </a>
   <a href="mailto:windeksolutions@proton.me">
